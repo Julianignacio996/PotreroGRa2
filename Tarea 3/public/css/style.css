@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Sans:ital,wght@0,300..800;1,300..800&family=Rubik+Moonrocks&display=swap');
+/* .rubik-moonrocks-regular {
+  font-family: "Rubik Moonrocks", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+  .funnel-sans-<uniquifier> {
+  font-family: "Funnel Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}*/
+    *{font-family: "Funnel Sans", sans-serif;
+    font-size: 30px;}
+h1 {font-family: "Rubik Moonrocks", sans-serif;}
+h1 {color: #DAA520;}
+h2 {color:rgb(223, 226, 43);}
+h3 {color: rgb(223, 226, 43);}
+p {color: rgb(149, 228, 22);}
+img {border-radius: 20px;}
+a {color: #ce0a0a;}
+li {color: rgba(53, 0, 97, 0.767)}
+body {background-color: rgba(0, 0, 0, 0.548);}
+div h2 {color: rgb(40, 196, 108);}
+div h3 {color: rgb(40, 196, 108);}
+div p {color: #0a1ece7c;}
+div li {color: violet;}
